@@ -7,15 +7,17 @@
 
 - 🔭 I’m currently working on [CodeLab web-page](https://www.codelab-software.hr/)
 
-- 🌱 I’m currently learning **Edunova-CSharp, Google-UXDesign, Udemy(Maximilian Schwarzmüller)-Angular**
+- 🌱 I’m currently learning **Edunova-CSharp / Google-UXDesign / Udemy-Angular**
 
 - 📫 How to reach me **karlo.peterfaj@codelab-software.hr**
+
+- 📄 I have certificates for **UXDesign by Google / HTML, CSS, and Javascript for Web Developers by Johns Hopkins University**
 
 - ⚡ Fun fact **I'm trying to understand graphic design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karlo-peterfaj-62a6a5289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karlo-peterfaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karlo-peterfaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karlo-peterfaj" height="30" width="40" /></a>
 <a href="https://fb.com/karlo.kecpeterfaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karlo.kecpeterfaj" height="30" width="40" /></a>
 <a href="https://instagram.com/karlo_keco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karlo_keco" height="30" width="40" /></a>
 </p>
@@ -26,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karlopet&show_icons=true&locale=en&layout=compact" alt="karlopet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karlopet&show_icons=true&locale=en" alt="karlopet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karlopet&" alt="karlopet" /></p>
