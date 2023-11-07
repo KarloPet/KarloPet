@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CodeLab web-page](https://www.codelab-software.hr/)
 
-- 🌱 I’m currently learning **Edunova-CSharp, Google-UXDesign, Udemy-Angular**
+- 🌱 I’m currently learning **Edunova-CSharp, Google-UXDesign, Udemy(Maximilian Schwarzmüller)-Angular**
 
 - 📫 How to reach me **karlo.peterfaj@codelab-software.hr**
 
