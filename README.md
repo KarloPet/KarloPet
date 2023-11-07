@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1600" height="350" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="center" alt="Coding" width="1600" height="250" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi 👋, I'm Karlo</h1>
 <h3 align="center">24-year-old from Croatia who wants to become a full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
