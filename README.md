@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karlopet&label=Profile%20views&color=0e75b6&style=flat" alt="karlopet" /> </p>
 
-- 🔭 I’m currently working on [CodeLab web-page](https://www.codelab-software.hr/)
-
-- 🌱 I’m currently learning **Edunova-CSharp / Udemy-Angular**
+- 🔭 I recently finished [CodeLab web-page](https://www.codelab-software.hr/)
 
 - 📫 How to reach me **karlo.peterfaj@codelab-software.hr**
 
-- 📄 I have certificates for **UXDesign by Google / HTML, CSS, and Javascript for Web Developers by Johns Hopkins University**
+- 📄 I have certificates for **UXDesign by Google / HTML, CSS, and Javascript for Web Developers by Johns Hopkins University, C# by Edunova, Angular by Maximilian Schwarzmuller**
 
-- ⚡ Fun fact **I'm trying to understand graphic design**
+- ⚡ Fun fact: **I'm trying to understand graphic design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
