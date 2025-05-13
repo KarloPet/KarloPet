@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karlopet&label=Profile%20views&color=0e75b6&style=flat" alt="karlopet" /> </p>
 
-- 🔭 I recently finished [CodeLab web-page](https://www.codelab-software.hr/)
+- 🔭 I recently finished [CodeLab web-page](https://www.codelab-software.hr/), [Frontiers in Drug Discovery](https://www.conferences-cresdrugdiscovery.hr/), [Croatian Robotics Conference](https://www.dof-crc.hr/), [Tip-Top agency calculator](https://tip-top-kalkulator.codelab-software.hr/), [Sparkle kitchen blog](https://sparklekitchen.blog/)
 
 - 📫 How to reach me **karlo.peterfaj@codelab-software.hr**
 
